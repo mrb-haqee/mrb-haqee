@@ -6,7 +6,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🎓 Mathematics'20 - University of Udayana
+- 🎓 **Mathematics'20 - Udayana University**
 
 - 📚 Joined Program Independent Study Batch 4 at **Ruangguru Camp - BackEnd Engineering**
 
