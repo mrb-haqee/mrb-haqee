@@ -84,4 +84,4 @@
 
 </center>
 
-![snake gif](https://github.com/mrb-haqee/mrb-haqee/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mrb-haqee/mrb-haqee/blob/output/github-contribution-grid-snake.svg)
