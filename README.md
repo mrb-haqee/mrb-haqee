@@ -1,6 +1,6 @@
 <!-- IMAGE -->
 <div style="display: flex; justify-content: center;">
-    <img style="text-align: center; width: auto;" src="src/backend%20engineer.gif" alt="">
+    <img style="text-align: center; width: auto;" src="src/Backdround LinkedIn.png" alt="">
 </div>
 
 <!-- Header -->
