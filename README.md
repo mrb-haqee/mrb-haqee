@@ -50,13 +50,13 @@
 
 ## 🛠️ Tech Stack:
 
-## `Languages for Web:`
+## `Web Development:`
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,react,tailwind,html,css)](https://github.com/mrb-haqee)
+[![My Skills](https://skillicons.dev/icons?i=go,js,react,php,flask,html,css)](https://github.com/mrb-haqee)
 
-## `Languages for Math:`
+## `Math Tools:`
 
-[![My Skills](https://skillicons.dev/icons?i=python,matlab,r)](https://github.com/mrb-haqee)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,latex,matlab,r)](https://github.com/mrb-haqee)
 
 ## `Database:`
 
